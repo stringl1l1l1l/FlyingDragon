@@ -1,11 +1,11 @@
 # FlyingDragon
-从零开始的移植之路：软件杯——thunderbird78移植到龙芯平台
+从零开始的移植之路：软件杯——thunderbird78移植到龙芯平台  
 
 开发环境:
-Loongnix桌面操作系统（qemu虚拟机）
-参考文献: 
-**[thunderbird官方文档](https://developer.thunderbird.net/thunderbird-development/getting-started)**
-**[markdown语法教程](https://markdown.com.cn/basic-syntax/headings.html)**
+Loongnix桌面操作系统(qemu虚拟机)  
+参考文献:  
+**[thunderbird官方文档](https://developer.thunderbird.net/thunderbird-development/getting-started)**  
+**[markdown语法教程](https://markdown.com.cn/basic-syntax/headings.html)**  
 - [FlyingDragon](#flyingdragon)
   - [环境配置](#环境配置)
     - [error1](#error1)
